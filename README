@@ -1,0 +1,17 @@
+
+=============================
+=  README for ex5: Carrots
+
+login:matan.halfon, 
+ID number:205680648
+Name:Matan Halfon
+i disscused the ex with:
+Liron Gershoni, Tal bambrger
+
+=============================== Description:
+A program doing image prossing in low level
+the program coantin a functians that can get the otsu and do all kind of filters
+that can detect edges or just apply any wanted filter ,the program can also
+get the downsample of an image .
+the program can also find the most dominante angle of each image and rotete acordingly
+and than return the rotetd image 
